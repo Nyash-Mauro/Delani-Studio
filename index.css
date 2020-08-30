@@ -70,3 +70,9 @@
   background-repeat: no-repeat;
   color: white;
 }
+input[type=text],input[type=email],#comment{
+  background: transparent;
+  color: white;
+  font-size: 25px;
+  font-family: 'Copse', serif;
+}
