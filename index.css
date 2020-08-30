@@ -9,7 +9,7 @@
   background-repeat: no-repeat;
   text-align: center;
   max-width: 100%;
-  height:700px;
+  height:750px;
 }
 #heading{
   color: white;
@@ -21,9 +21,7 @@
   margin-top: 10%;
   padding-bottom: 20px;
 }
-#mouse-click{
-  animation-duration: 2s bounce;
-}
+
 .about{
   text-align: center;
   padding-bottom: 30px;
@@ -39,6 +37,13 @@
   background-repeat: no-repeat;
   font-family: 'Copse', serif;
   font-size: 18px;
-  height: 320px;
+  height: 500px;
   max-width: 100%;
+}
+#services{
+  margin-top: 30%;
+  padding-top: 25%;
+}
+.what-we-do,{
+  padding-top: 50px;
 }
