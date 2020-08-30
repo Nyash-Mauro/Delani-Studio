@@ -76,3 +76,20 @@ input[type=text],input[type=email],#comment{
   font-size: 25px;
   font-family: 'Copse', serif;
 }
+#MERGE1{
+  width: 30%;
+  margin-left: 20%;
+  margin-right: 30px;
+}
+#comment{
+  width:60%;
+  margin-left: 20%;
+}
+button{
+  margin-left: 20%;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+h2{
+  text-align: center;
+}
