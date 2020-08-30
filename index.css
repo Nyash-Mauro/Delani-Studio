@@ -63,3 +63,10 @@
   padding-top:40px;
   font-family: 'Gabriela', serif;
 }
+.contact{
+  background-image: url('assets/backgrounds/c_image.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
