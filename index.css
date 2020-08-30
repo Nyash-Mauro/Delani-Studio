@@ -1,0 +1,14 @@
+*{
+  scroll-behavior: smooth;
+}
+.landing{
+  background-image: url("assets/logo/logo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+#mouse-click{
+  padding-top: 25px;
+  margin-top: 10%;
+  padding-bottom: 20px;
+}
