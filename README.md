@@ -5,6 +5,11 @@
 Delani studio,this is a state of the art studio.This are some of the things we do Product Management,Development and Design
 ## Live link
 https://nyash-mauro.github.io/Delani-Studio/.
+## Setup/Installation Requirements
+Go on our site
+Run the program
+Enter the details
+Then you are good to go
 ## Technologies Used
 HTML  CSS  JS and JQuery
 ## Support and contact details
