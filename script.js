@@ -68,3 +68,19 @@ $("#work5").hover(
     $("#overlay5").hide("");
   }
 );
+$("#work6").hover(
+  function () {
+    $("#overlay6").show("");
+  },
+  function () {
+    $("#overlay6").hide("");
+  }
+);
+$("#work7").hover(
+  function () {
+    $("#overlay7").show("");
+  },
+  function () {
+    $("#overlay7").hide("");
+  }
+);
