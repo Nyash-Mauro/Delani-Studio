@@ -45,3 +45,8 @@ $("#work3").hover(function () {
 }, function () {
   $("#overlay3").hide("");
 });
+$("#work4").hover(function () {
+  $("#overlay4").show("");
+}, function () {
+  $("#overlay4").hide("");
+});
