@@ -99,3 +99,12 @@ h2{
 textarea.form-control {
   width: 60%;
 }
+footer{
+  text-align: center;
+  padding-top: 30px;
+  font-family: cursive;
+}
+footer p{
+  margin-top: 3%;
+  font-size: 20px;
+}
