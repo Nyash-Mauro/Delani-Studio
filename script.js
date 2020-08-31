@@ -84,3 +84,11 @@ $("#work7").hover(
     $("#overlay7").hide("");
   }
 );
+$("#work8").hover(
+  function () {
+    $("#overlay8").show("");
+  },
+  function () {
+    $("#overlay8").hide("");
+  }
+);
