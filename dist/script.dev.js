@@ -35,3 +35,13 @@ $("#work1").hover(function () {
 }, function () {
   $("#overlay").hide("");
 });
+$("#work2").hover(function () {
+  $("#overlay2").show("");
+}, function () {
+  $("#overlay2").hide("");
+});
+$("#work3").hover(function () {
+  $("#overlay3").show("");
+}, function () {
+  $("#overlay3").hide("");
+});
