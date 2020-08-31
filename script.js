@@ -28,3 +28,11 @@ $(document).ready(function(){
     $("#design-image").slideDown('1500');
   });
 });
+$("#work1").hover(
+  function () {
+    $("#overlay").show("");
+  },
+  function () {
+    $("#overlay").hide("");
+  }
+);
