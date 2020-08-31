@@ -21,7 +21,9 @@
   margin-top: 10%;
   padding-bottom: 20px;
 }
-
+#services{
+  margin-top: 20px;
+}
 .about{
   text-align: center;
   padding-bottom: 30px;
@@ -45,8 +47,9 @@
   padding-top: 25%;
 }
 .what-we-do{
-  padding-top : 50px;
+  padding-top: 50px;
 }
+
 #portfolio{
   display: flex;
   flex-wrap: wrap;
@@ -92,4 +95,7 @@ button{
 }
 h2{
   text-align: center;
+}
+textarea.form-control {
+  width: 60%;
 }
